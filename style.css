@@ -1,0 +1,95 @@
+.mainCal{
+    border: 1px solid;
+    background-color: #fafafa;
+    width: 380px;
+    height: 580px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    margin: 25px auto;
+    background-color: deepskyblue;
+}
+body{
+    background-color: burlywood;
+}
+
+b{
+    font-size: 16px;
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    color:rgb(0, 2, 5);
+    font-style: normal;
+}
+
+.input{
+    width: 375px;
+    height: 100px;
+    box-shadow: 2px 2px 2px black;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid black;
+    font-size: 35px;
+    text-align: right;
+    outline: none;
+}
+.input1{
+    width: 375px;
+    height: 40px;
+    box-shadow: 2px 2px 2px black;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid black;
+    font-size: 35px;
+    text-align: right;
+    outline: none;
+
+}
+
+.btnEqual:hover{
+    background-color: olive;
+    border: 2px solid olive;
+}
+.btnEqual{
+    background-color: lightgreen;
+    border: 2px solid lightgreen;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 80px;
+    height: 50px;
+    outline: none;
+
+}
+.btn:hover{
+    background-color: darkgray;
+    border: 2px solid darkgray;
+}
+
+.btn{
+    background-color: #fafafa;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 80px;
+    height: 50px;
+    border: 2px solid #fafafa;
+    outline: none;
+}
+.btnSign:hover{
+        background-color: whitesmoke;
+        border: 2px solid whitesmoke;
+}
+
+
+
+.btnSign{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 80px;
+    height: 50px;
+    background-color: darkgray;
+    border: 2px solid darkgray;
+    outline: none;
+}
+
+
